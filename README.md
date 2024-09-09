@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋'
+I'm interested in learning how to combine both front-end developement with back-end
+My favorite hobbies are rock climbing and snowboarding
+I'm currently working on software development II
 
 <!--
 **Taco956/Taco956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
